@@ -17,7 +17,7 @@ Services
 - European Journal of Radiology (EJR), Reviewer
 - Biomedical Signal Processing and Control (BSPC), Reviewer
 - Physical and Engineering Sciences in Medicine (PESM), Reviewer
-<p><sub>Last updated: 2025-06-01</sub></p>
+<sub>Last updated: 2025-06-01</sub>
 
 
 Recent News
