@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About"
+title: "Zhihong Chen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_blank">School of Life Sciences and Technology</a>, <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
 
 
