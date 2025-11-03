@@ -40,8 +40,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7056-1335"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : https://www.researchgate.net/profile/Zhihong-Chen-19
   scopus           : # URL
 
   # Repositories and software development
