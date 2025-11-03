@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Zhihong Chen"
 author_profile: true
 redirect_from: 
   - /about/
