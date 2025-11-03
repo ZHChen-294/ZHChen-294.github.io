@@ -12,11 +12,11 @@ I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_
 
 Services
 ======
-- IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), Reviewer
-- IEEE Journal of Biomedical and Health Informatics (**IEEE JBHI**), Reviewer
-- European Journal of Radiology (**EJR**), Reviewer
-- Biomedical Signal Processing and Control (**BSPC**), Reviewer
-- Physical and Engineering Sciences in Medicine (**PESM**), Reviewer
+- IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Reviewer
+- IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), Reviewer
+- European Journal of Radiology (EJR), Reviewer
+- Biomedical Signal Processing and Control (BSPC), Reviewer
+- Physical and Engineering Sciences in Medicine (PESM), Reviewer
 <p><sub>Last updated: 2025-06-01</sub></p>
 
 
