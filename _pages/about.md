@@ -24,13 +24,6 @@ Services
 <!-- ===== News ===== -->
 Recent News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
 <ul>
   <li><b>2025.4.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.</li>
   <li><b>2025.1.12:</b> Our paper "<b>AutoLDP: An accurate and efficient artificial intelligence-based tool for automatic labeling of digital pathology</b>" was accepted by <i><b>EngMedicine</b></i>.</li>
