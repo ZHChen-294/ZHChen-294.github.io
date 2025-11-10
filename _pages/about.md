@@ -15,7 +15,7 @@ I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_
 I actively seek long-term clinical collaborations in areas such as
 <span style="color:red;">neuroimaging</span>, 
 <span style="color:red;">pan-cancer studies</span>, 
-and <span style="color:red;">osteonecrosis of the femoral head</span></b>.
+and <span style="color:red;">osteonecrosis of the femoral head!</span></b>
 </span>
 
 Services
