@@ -11,11 +11,11 @@ About me
 ======
 I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_blank">School of Life Sciences and Technology</a>, <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
 
-<span style="text-decoration:underline;">
+<span style="text-decoration:underline;"><b>
 I actively seek long-term clinical collaborations in areas such as
-<b><span style="color:red;">neuroimaging</span></b>, 
-<b><span style="color:red;">pan-cancer studies</span></b>, 
-and <b><span style="color:red;">osteonecrosis of the femoral head</span></b>.
+<span style="color:red;">neuroimaging</span>, 
+<span style="color:red;">pan-cancer studies</span>, 
+and <span style="color:red;">osteonecrosis of the femoral head</span></b>.
 </span>
 
 Services
