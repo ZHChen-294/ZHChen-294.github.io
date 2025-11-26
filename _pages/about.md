@@ -32,6 +32,7 @@ Services
 Recent News
 ======
 <ul>
+  <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.</li>
   <li><b>2025.4.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.</li>
   <li><b>2025.1.12:</b> Our paper "<b>AutoLDP: An accurate and efficient artificial intelligence-based tool for automatic labeling of digital pathology</b>" was accepted by <i><b>EngMedicine</b></i>.</li>
   <li><b>2024.8.13:</b> Our paper "<b>A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images</b>" was accepted by <i><b>eClinicalMedicine</b></i>.</li>
