@@ -23,7 +23,7 @@ repository               : "ZHChen-294.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo.png"
   name             : "Zhihong Chen"
   pronouns         : # example: "she/her"  
   bio              : "AI in medicine"
