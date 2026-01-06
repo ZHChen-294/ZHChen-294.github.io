@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_blank">School of Life Sciences and Technology</a>, <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
+I am a Ph.D. candidate at the <a href="https://www.life.uestc.edu.cn/" target="_blank">School of Life Science and Technology</a>, <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China (UESTC)</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
 
 <span style="font-size:20px; text-decoration:underline;"><b>
 I actively seek long-term clinical collaborations in areas such as
