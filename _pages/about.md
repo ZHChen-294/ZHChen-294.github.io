@@ -36,12 +36,30 @@ Recent News
     <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
     <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
     <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
-  <li><b>2026.01.22:</b> Our paper "<b>Comparative Effects of Intermittent Theta-Burst Stimulation and Sequential Bilateral rTMS on Depression and Emotion Regulation in Major Depressive Disorder: A Randomized Controlled Trial</b>" was accepted by <i><b>Frontiers in Neuroscience</b></i>.</li>
-  <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.</li>
-  <li><b>2025.04.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.</li>
-  <li><b>2025.01.12:</b> Our paper "<b>AutoLDP: An accurate and efficient artificial intelligence-based tool for automatic labeling of digital pathology</b>" was accepted by <i><b>EngMedicine</b></i>.</li>
-  <li><b>2024.08.13:</b> Our paper "<b>A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images</b>" was accepted by <i><b>eClinicalMedicine</b></i>.</li>
-  <li><b>2024.05.23:</b> Our paper "<b>ALIEN: Attention-guided cross-resolution collaborative network for 3D gastric cancer segmentation in CT images</b>" was accepted by <i><b>Biomedical Signal Processing and Control</b></i>.</li>
+  <li><b>2026.01.22:</b> Our paper "<b>Comparative Effects of Intermittent Theta-Burst Stimulation and Sequential Bilateral rTMS on Depression and Emotion Regulation in Major Depressive Disorder: A Randomized Controlled Trial</b>" was accepted by <i><b>Frontiers in Neuroscience</b></i>.
+    <img alt="JCR 2024 Q2"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q3" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 3.2" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+  <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+  <li><b>2025.04.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+  <li><b>2025.01.12:</b> Our paper "<b>AutoLDP: An accurate and efficient artificial intelligence-based tool for automatic labeling of digital pathology</b>" was accepted by <i><b>EngMedicine</b></i>.
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+  <li><b>2024.08.13:</b> Our paper "<b>A transformer-based deep learning model for early prediction of lymph node metastasis in locally advanced gastric cancer after neoadjuvant chemotherapy using pretreatment CT images</b>" was accepted by <i><b>eClinicalMedicine</b></i>.
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+  <li><b>2024.05.23:</b> Our paper "<b>ALIEN: Attention-guided cross-resolution collaborative network for 3D gastric cancer segmentation in CT images</b>" was accepted by <i><b>Biomedical Signal Processing and Control</b></i>.
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
   <li><b>2024.05.21:</b> Our paper "<b>Deep learning for colorectal cancer detection in contrast-enhanced CT without bowel preparation: a retrospective, multicentre study</b>" was accepted by <i><b>eBioMedicine</b></i>.</li>
   <li><b>2024.04.25:</b> Our paper "<b>Deep learning-aided 3D proxy-bridged region-growing framework for multi-organ segmentation</b>" was accepted by <i><b>Scientific Reports</b></i>.</li>
   <li><b>2024.03.20:</b> Our paper "<b>A colorectal coordinate-driven method for colorectum and colorectal cancer segmentation in conventional CT scans</b>" was accepted by <i><b>IEEE TNNLS</b></i>.</li>
