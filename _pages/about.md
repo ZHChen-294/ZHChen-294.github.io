@@ -41,9 +41,9 @@ Recent News
     <img alt="CAS 2024 Q3" src="https://img.shields.io/badge/CAS%202025-Q3-yellow" />
     <img alt="JIF 2024 3.2" src="https://img.shields.io/badge/JIF%202024-3.2-yellow" /></li>
   <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.
-    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
-    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
-    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.4-blue" /></li>
+    <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-red" />
+    <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-red" />
+    <img alt="JIF 2024 6.4" src="https://img.shields.io/badge/JIF%202024-6.9-brightgreen" /></li>
   <li><b>2025.04.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.
     <img alt="JCR 2024 Q1"  src="https://img.shields.io/badge/JCR%202024-Q1-brightgreen" />
     <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202025-Q1-orange" />
