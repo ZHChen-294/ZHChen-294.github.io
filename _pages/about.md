@@ -33,8 +33,8 @@ Recent News
 ======
 <ul>
   <li><b>2026.02.06:</b> Our paper "<b>An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI</b>" was accepted by <i><b>International Journal of Neural Systems</b></i>
-    <img alt="JCR Q1" src="https://img.shields.io/badge/JCR-Q1-brightgreen" />
-    <img alt="CAS Q1" src="https://img.shields.io/badge/CAS-Q1-orange" />
+    <img alt="2024 JCR Q1" src="https://img.shields.io/badge/JCR-Q1-brightgreen" />
+    <img alt="2024 CAS Q1" src="https://img.shields.io/badge/CAS-Q1-orange" />
     <img alt="2024 IF 6.4" src="https://img.shields.io/badge/IF-6.4-blue" />.</li>
   <li><b>2026.01.22:</b> Our paper "<b>Comparative Effects of Intermittent Theta-Burst Stimulation and Sequential Bilateral rTMS on Depression and Emotion Regulation in Major Depressive Disorder: A Randomized Controlled Trial</b>" was accepted by <i><b>Frontiers in Neuroscience</b></i>.</li>
   <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.</li>
