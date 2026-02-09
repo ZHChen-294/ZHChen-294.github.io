@@ -64,7 +64,7 @@ Recent News
   <li><b>2024.04.25:</b> Our paper "<b>Deep learning-aided 3D proxy-bridged region-growing framework for multi-organ segmentation</b>" was accepted by <i><b>Scientific Reports</b></i>.
     <img alt="JCR 2023 Q1"  src="https://img.shields.io/badge/JCR%202023-Q1-red" />
     <img alt="CAS 2024 Q2" src="https://img.shields.io/badge/CAS%202024-Q2-brightgreen" />
-    <img alt="JIF 2023 3.8" src="https://img.shields.io/badge/JIF%202023-3.8-red" /></li>
+    <img alt="JIF 2023 3.8" src="https://img.shields.io/badge/JIF%202023-3.8-yellow" /></li>
   <li><b>2024.03.20:</b> Our paper "<b>A colorectal coordinate-driven method for colorectum and colorectal cancer segmentation in conventional CT scans</b>" was accepted by <i><b>IEEE TNNLS</b></i>.
     <img alt="JCR 2023 Q1"  src="https://img.shields.io/badge/JCR%202023-Q1-red" />
     <img alt="CAS 2024 Q1" src="https://img.shields.io/badge/CAS%202024-Q1-red" />
