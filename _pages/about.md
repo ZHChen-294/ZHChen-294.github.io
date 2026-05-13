@@ -32,6 +32,11 @@ Services
 Recent News
 ======
 <ul>
+  <li><b>2026.05.13:</b> Our paper "<b>Baseline Anhedonia Phenotypes Reveal Divergent Neurophysiological Effects of Intermittent Theta-Burst Stimulation in Major Depression Disorder</b>" was accepted by <i><b>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</b></i>.
+    <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
+    <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
+    <img alt="JIF 4.7" src="https://img.shields.io/badge/JIF-4.7-brightgreen" /></li>
+  
   <li><b>2026.02.06:</b> Our paper "<b>An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI</b>" was accepted by <i><b>International Journal of Neural Systems</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q1" src="https://img.shields.io/badge/CAS-Q1-red" />
