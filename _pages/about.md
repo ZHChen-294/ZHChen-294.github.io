@@ -99,7 +99,7 @@ Recent News
     <img alt="CAS Q3" src="https://img.shields.io/badge/CAS-Q3-yellow" />
     <img alt="JIF 3.1" src="https://img.shields.io/badge/JIF-3.1-yellow" /></li>
 
-  <li><b>2022.01.21:</b> Our engineering work with <a href="https://www.wchscu.cn/public/index.html" target="_blank">West China Hospital</a>, "<b>Building Structured Patient Follow-up Records from Chinese Medical Records via Deep Learning</b>", was published in <i><b>BIC 2022</b></i>.</li>
+  <li><b>2022.01.21:</b> Our engineering work with <a href="https://www.wchscu.cn/public/index.html" target="_blank">West China Hospital</a>, "<b>Building Structured Patient Follow-up Records from Chinese Medical Records via Deep Learning</b>" was accepted by <i><b>BIC 2022</b></i>.</li>
 
   <li><b>2020.01.07:</b> Our paper "<b>Detecting abnormal brain regions in schizophrenia using structural MRI via machine learning</b>" was accepted by <i><b>Computational Intelligence and Neuroscience</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
