@@ -32,7 +32,7 @@ Services
 Recent News
 ======
 <ul>
-  <li><b>2026.05.13:</b> Our paper "<b>Effect of iTBS on Suicidal Ideation and Emotion Regulation in Major Depressive Disorder: A Randomized Clinical Trial</b>" was accepted by <i><b>BMC Psychiatry</b></i>.
+  <li><b>2026.06.06:</b> Our paper "<b>Effect of iTBS on Suicidal Ideation and Emotion Regulation in Major Depressive Disorder: A Randomized Clinical Trial</b>" was accepted by <i><b>BMC Psychiatry</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
     <img alt="JIF 3.6" src="https://img.shields.io/badge/JIF-3.6-brightgreen" /></li>
