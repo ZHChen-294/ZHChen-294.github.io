@@ -35,12 +35,12 @@ Recent News
   <li><b>2026.06.06:</b> Our paper "<b>Effect of iTBS on Suicidal Ideation and Emotion Regulation in Major Depressive Disorder: A Randomized Clinical Trial</b>" was accepted by <i><b>BMC Psychiatry</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
-    <img alt="JIF 3.6" src="https://img.shields.io/badge/JIF-3.6-brightgreen" /></li>
+    <img alt="JIF 4.6" src="https://img.shields.io/badge/JIF-4.6-brightgreen" /></li>
   
   <li><b>2026.05.13:</b> Our paper "<b>Baseline Anhedonia Phenotypes Reveal Divergent Neurophysiological Effects of Intermittent Theta-Burst Stimulation in Major Depression Disorder</b>" was accepted by <i><b>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
-    <img alt="JIF 4.7" src="https://img.shields.io/badge/JIF-4.7-brightgreen" /></li>
+    <img alt="JIF 4.9" src="https://img.shields.io/badge/JIF-4.9-brightgreen" /></li>
   
   <li><b>2026.02.06:</b> Our paper "<b>An Interpretable Functional-Dynamic Synaptic Graph Neural Network for Major Depressive Disorder Diagnosis from rs-fMRI</b>" was accepted by <i><b>International Journal of Neural Systems</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
@@ -50,12 +50,12 @@ Recent News
   <li><b>2026.01.22:</b> Our paper "<b>Comparative Effects of Intermittent Theta-Burst Stimulation and Sequential Bilateral rTMS on Depression and Emotion Regulation in Major Depressive Disorder: A Randomized Controlled Trial</b>" was accepted by <i><b>Frontiers in Neuroscience</b></i>.
     <img alt="JCR Q2"  src="https://img.shields.io/badge/JCR-Q2-brightgreen" />
     <img alt="CAS Q3" src="https://img.shields.io/badge/CAS-Q3-yellow" />
-    <img alt="JIF 3.2" src="https://img.shields.io/badge/JIF-3.2-yellow" /></li>
+    <img alt="JIF 4.0" src="https://img.shields.io/badge/JIF-4.0-yellow" /></li>
 
   <li><b>2025.11.25:</b> Our paper "<b>MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI</b>" was accepted by <i><b>Information Processing & Management</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q1" src="https://img.shields.io/badge/CAS-Q1-red" />
-    <img alt="JIF 6.9" src="https://img.shields.io/badge/JIF-6.9-brightgreen" /></li>
+    <img alt="JIF 8.1" src="https://img.shields.io/badge/JIF-8.1-brightgreen" /></li>
 
   <li><b>2025.04.12:</b> Our paper "<b>Multi-phase feature-aligned fusion model for automated colorectal cancer segmentation in contrast-enhanced CT scans</b>" was accepted by <i><b>Expert Systems with Applications</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
