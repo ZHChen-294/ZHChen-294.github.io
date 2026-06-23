@@ -32,7 +32,7 @@ Services
 Recent News
 ======
 <ul>
-  <li><b>2026.06.06:</b> Our paper "<b>EEG Microstate Alterations in Anhedonia Subtypes of Major Depressive Disorder and Their Modulation by Intermittent Theta-Burst Stimulation</b>" was accepted by <i><b>Depression and Anxiety</b></i>.
+  <li><b>2026.06.23:</b> Our paper "<b>EEG Microstate Alterations in Anhedonia Subtypes of Major Depressive Disorder and Their Modulation by Intermittent Theta-Burst Stimulation</b>" was accepted by <i><b>Depression and Anxiety</b></i>.
     <img alt="JCR Q2"  src="https://img.shields.io/badge/JCR-Q2-brightgreen" />
     <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
     <img alt="JIF 2.7" src="https://img.shields.io/badge/JIF-2.7-yellow" /></li>
