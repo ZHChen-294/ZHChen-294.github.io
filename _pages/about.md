@@ -22,11 +22,12 @@ Services
 ======
 - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Reviewer
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), Reviewer
+- Engineering Applications of Artificial Intelligence (EAAI), Reviewer
 - European Journal of Radiology (EJR), Reviewer
 - Biomedical Signal Processing and Control (BSPC), Reviewer
 - Physical and Engineering Sciences in Medicine (PESM), Reviewer
 - Scientific Reports (SR), Reviewer
-<p><sub>Last updated: 2025-11-10</sub></p>
+<p><sub>Last updated: 2026-07-01</sub></p>
 
 
 Recent News
