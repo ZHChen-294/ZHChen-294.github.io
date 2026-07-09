@@ -33,7 +33,7 @@ Services
 Recent News
 ======
 <ul>
-  <li><b>2026.07.09:</b> Our three papers: 1) "<b>Deciphering Multi-scale Dynamics for Major Depressive Disorder Diagnosis: A Spatiotemporal Coupling Graph Learning Framework</b>", 2) "<b>Reshaping Cognitive and Neuroelectrophysiological Landscapes in Major Depressive Disorder: A Comparative Study of Advanced TMS Protocols</b>", and 3) "<b>EEG Microstate and Spectral Dynamics Reveal Divergent Anhedonia Subtype-Specific Responses to Intermittent Theta-Burst Stimulation in Major Depressive Disorder</b>" were included in <i><b>The Annual Meeting of Chinese Neuroscience Society (CNS2026)</b></i> and presented as posters.</li>
+  <li><b>2026.07.09:</b> Our three paper abstracts: 1) "<b>Deciphering Multi-scale Dynamics for Major Depressive Disorder Diagnosis: A Spatiotemporal Coupling Graph Learning Framework</b>", 2) "<b>Reshaping Cognitive and Neuroelectrophysiological Landscapes in Major Depressive Disorder: A Comparative Study of Advanced TMS Protocols</b>", and 3) "<b>EEG Microstate and Spectral Dynamics Reveal Divergent Anhedonia Subtype-Specific Responses to Intermittent Theta-Burst Stimulation in Major Depressive Disorder</b>" were included in <i><b>The Annual Meeting of Chinese Neuroscience Society (CNS2026)</b></i> and presented as posters.</li>
 
   <li><b>2026.06.23:</b> Our paper "<b>EEG Microstate Alterations in Anhedonia Subtypes of Major Depressive Disorder and Their Modulation by Intermittent Theta-Burst Stimulation</b>" was accepted by <i><b>Depression and Anxiety</b></i>.
     <img alt="JCR Q2"  src="https://img.shields.io/badge/JCR-Q2-brightgreen" />
