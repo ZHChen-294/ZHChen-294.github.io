@@ -38,7 +38,7 @@ Recent News
   <li>"<b>Reshaping Cognitive and Neuroelectrophysiological Landscapes in Major Depressive Disorder: A Comparative Study of Advanced TMS Protocols</b>"</li>
   <li>"<b>EEG Microstate and Spectral Dynamics Reveal Divergent Anhedonia Subtype-Specific Responses to Intermittent Theta-Burst Stimulation in Major Depressive Disorder</b>"</li>
 
-  <li><b>2026.07.09:</b> Our three papers were included in CNS2026 and presented as posters:
+  <li><b>2026.07.09:</b> Our three papers were included in <i><b>The 19th Annual Meeting of Chinese Neuroscience Society (CNS2026)</b></i> and presented as posters:
     <ul>
       <li>"<b>Deciphering Multi-scale Dynamics for Major Depressive Disorder Diagnosis: A Spatiotemporal Coupling Graph Learning Framework</b>"</li>
       <li>"<b>Reshaping Cognitive and Neuroelectrophysiological Landscapes in Major Depressive Disorder: A Comparative Study of Advanced TMS Protocols</b>"</li>
