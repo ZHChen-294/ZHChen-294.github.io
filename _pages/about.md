@@ -33,7 +33,7 @@ Services
 Recent News
 ======
 <ul>
-  <li><b>2026.07.10:</b> Our paper "<b>Joint 3D Lesion Segmentation and ARCO-JIC Classification of Osteonecrosis of the Femoral Head via Cascade Multi-Task Learning</b>" was accepted for presentation at <i><b>PRCV2026 (Main Track)</b></i>.</li>
+  <li><b>2026.07.10:</b> Our paper "<b>Joint 3D Lesion Segmentation and ARCO-JIC Classification of Osteonecrosis of the Femoral Head via Cascade Multi-Task Learning</b>" was accepted for presentation at <i><b>PRCV2026</b></i> (Main Track).</li>
   
   <li><b>2026.07.09:</b> Our three paper abstracts: 1) "<b>Deciphering Multi-scale Dynamics for Major Depressive Disorder Diagnosis: A Spatiotemporal Coupling Graph Learning Framework</b>", 2) "<b>Reshaping Cognitive and Neuroelectrophysiological Landscapes in Major Depressive Disorder: A Comparative Study of Advanced TMS Protocols</b>", and 3) "<b>EEG Microstate and Spectral Dynamics Reveal Divergent Anhedonia Subtype-Specific Responses to Intermittent Theta-Burst Stimulation in Major Depressive Disorder</b>" were included in <i><b>The Annual Meeting of Chinese Neuroscience Society (CNS2026)</b></i> and presented as posters.</li>
 
