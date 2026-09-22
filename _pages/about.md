@@ -24,10 +24,11 @@ Services
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), Reviewer
 - Engineering Applications of Artificial Intelligence (EAAI), Reviewer
 - European Journal of Radiology (EJR), Reviewer
+- Journal of Translational Medicine (JTRM), Reviewer
 - Biomedical Signal Processing and Control (BSPC), Reviewer
 - Physical and Engineering Sciences in Medicine (PESM), Reviewer
 - Scientific Reports (SR), Reviewer
-<p><sub>Last updated: 2026-07-01</sub></p>
+<p><sub>Last updated: 2026-09-15</sub></p>
 
 
 Recent News
