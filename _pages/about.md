@@ -37,7 +37,7 @@ Recent News
   <li><b>2026.11.25:</b> Our paper "<b>Transcriptomic and neurotransmitter signatures of edge-centric brain entropy linked to anhedonia heterogeneity and suicidal ideation in depression</b>" was accepted by <i><b>Translational Psychiatry</b></i>.
     <img alt="JCR Q1"  src="https://img.shields.io/badge/JCR-Q1-red" />
     <img alt="CAS Q2" src="https://img.shields.io/badge/CAS-Q2-brightgreen" />
-    <img alt="JIF 7.5" src="https://img.shields.io/badge/JIF-4.6-brightgreen" /></li>
+    <img alt="JIF 7.5" src="https://img.shields.io/badge/JIF-7.5-brightgreen" /></li>
   
   <li><b>2026.07.10:</b> Our paper "<b>Joint 3D Lesion Segmentation and ARCO-JIC Classification of Osteonecrosis of the Femoral Head via Cascade Multi-Task Learning</b>" was accepted for presentation at <i><b>PRCV2026</b></i> (Main Track).</li>
   
